@@ -1,1 +1,1 @@
-My first readme
+My variable and expansion readme
